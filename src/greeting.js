@@ -1,3 +1,3 @@
-// greeting.js  
+// greeting.js
 
-export const greeting = "Hello, Odinite!"
+export const greeting = "Hello, Odinite!";
